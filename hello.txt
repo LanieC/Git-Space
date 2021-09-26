@@ -3,3 +3,4 @@ test hot-fix
 test clone
 test test-team
 test ssh
+test ssh2
