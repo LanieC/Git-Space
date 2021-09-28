@@ -4,3 +4,4 @@ test clone
 test test-team
 test ssh
 test ssh2
+github update
